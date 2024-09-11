@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "npm run dev --workspace=app"
+    "dev": "npm run dev --workspace=app",
+    "build": "npm run build --workspace=app"
   },
   "keywords": [],
   "author": "",
